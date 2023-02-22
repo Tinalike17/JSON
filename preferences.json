@@ -1,19 +1,17 @@
 {
 
-
-	"Favorite_cartoons" : {"Tangled", "Regal Academy"}
+	"Favorite_cartoons" : [
+	{"Title":"Tangled"},
+	{"Title":"Regal Academy"],
 	"Favorite_movies" : "The hustle",
-	"Favorite_serials" : {"Once upon a time", "Librarians"}
-	"Favorite_anime": {"Blue lock", "My Next Life as a Villainess"}
+	"Favorite_serials" : "Librarians",
+	"Favorite_anime": "My Next Life as a Villainess",
 	"Favorite_author": "Laurent Gounel",
 	"Favorite_food":"Stuffed peppers",
 	"Favorite_season": "Summer",
-	"Countries I'd like to visit" : {"Greece","Japan","Italy"}
-
-
-
-
-
+	"Countries I'd like to visit" : {"Country":"Greece",
+	"Country":"Japan", 
+	"Country":"Italy"}
 
 
 }
