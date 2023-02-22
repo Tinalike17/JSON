@@ -8,7 +8,7 @@
   
 "Steps to Reproduce": {
   "1": "Click on the 'langswitch' and choose 'Italiano'",
-  "2": "Go to the section ""Calendario economico"" of the home page of the Italian version and look at the title of the button on the left side at the bottom of this section"
+  "2": "Go to the section 'Calendario economico' of the home page of the Italian version and look at the title of the button on the left side at the bottom of this section"
 }
   
 "Expected Result": "The name of the button 'View all events' changes to the Italian language when switching to the Ilatian version of the site",
