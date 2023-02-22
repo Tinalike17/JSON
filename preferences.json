@@ -9,9 +9,9 @@
 	"Favorite_author": "Laurent Gounel",
 	"Favorite_food":"Stuffed peppers",
 	"Favorite_season": "Summer",
-	"Countries I'd like to visit" : {"Country":"Greece",
-	"Country":"Japan", 
-	"Country":"Italy"}
+	"Countries I'd like to visit" : {"Country_1":"Greece",
+	"Country_2":"Japan", 
+	"Country_3":"Italy"}
 
 
 }
