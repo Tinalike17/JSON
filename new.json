@@ -1,0 +1,21 @@
+{
+
+
+	"Full_name": "Valentina Vasylivna Skyrska",
+	"My_age": 19,
+	"My_pets": {
+
+			"cat_1":"Alice",
+			"cat_2":"Jerry",
+			"cat_3":"Markiza",
+
+			"dog_1":"Baghira",
+			"dog_2":"Kuzya"
+			
+		   }
+
+	"My_future_salary" : "3000$"
+
+
+
+}
