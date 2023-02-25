@@ -1,0 +1,18 @@
+1)Склонувати репозиторій JSON на локальний комп'ютер - git clone 
+3)Всередині локального JSON створити файл "new.json" - vim new.json, cat > new.json
+4)Додати файл під гіт - git add .
+5)Закомітити файл - git commit -m "New file"
+6)ВІдправити файл на зовнішній файл Github репозиторій - git push
+7)Відредагувати вміст файла "new.json" додавши інформацію про себе(Повне ім'я,кількість домашніх тварин,майбутня очікувана зарплата) Все у форматі JSON - vim new.json ( {"full name" : "Valentina Vasylivna Skyrska" ....})
+8)Відправити зміни на зовнішній репозиторій - git status, git commit am - "New 
+modifications", git push
+9)Створити файл preferences.json - cat > preferences.json
+10)Додати інформацію про свої уподобання (Улюблений серіал, фільм,їжа та країна яку б хотіли б відвідудати - vim preferences.json "I" mode {"My favorite serial" : "Librarians"}...
+11)Створити файл skills.json додати та інформацію про скіли які отримаєте на курсі в форматі JSON - vim skills.json, "I" mode {"1":"How web works",....}, "Esc", :wq/:x
+12)Відправити відразу два файла на зовнішній репозиторій - git add . , git commit - m "",git push
+13)На веб інтерфейсі створити файл bug_report.json - click on "Add file" button then add new file then name your file and commit your file
+14)На веб інтерфейсі зробити Commit changes(зберегти) зміни на веб інтерфейсі - go to edit mode of the bug_report.json file and add some changes {"№" : "1"} and click commit changes
+15)На веб інтерфейсі модифікуйте файл bug_report.json додайте баг репорт в форматі "JSON" - edit mode and commit changes that you made :{"Summary":"Localization error of the button 'View all events' in Italian version of the site", ...}
+16) Зробити commit changes на веб інтерфейсі - click on Commit changes
+17)Синхронізувати зовнішній і локальний репозиторій JSON - git pull
+
